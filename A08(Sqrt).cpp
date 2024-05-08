@@ -1,3 +1,5 @@
+/*Write a program that asks the user for a number and
+outputs the number squared that is entered*/
 void setup()
 {
   Serial.begin(9600);
