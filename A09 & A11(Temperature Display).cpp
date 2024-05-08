@@ -1,3 +1,8 @@
+/*Write a program read the temperature sensor &amp; send the
+values to the serial monitor on the computer*/
+
+/*Write a program to show the temperature and shows a
+graph of the recent measurements*/
 float temp;
 int tempPin = 0;
 
