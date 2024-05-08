@@ -1,3 +1,7 @@
+/*Write a program so it displays the temperature in Fahrenheit
+as well as the maximum and minimum temperatures it has
+seen*/
+
 float temp;
 int tempin=0;
 float min,max;
