@@ -1,4 +1,5 @@
-
+/*Write a program using Arduino to control LED (One or more
+ON/OFF). Or Blinking*/
 void setup() {
 pinMode(8,OUTPUT);
 pinMode(7,OUTPUT);
